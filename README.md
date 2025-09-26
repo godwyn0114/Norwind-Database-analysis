@@ -71,7 +71,7 @@ Insight: Impressions have grown significantly over the years, with 2023 reaching
 
 ## 🔷 Facebook Dashboard
 
-![Facebook Dashboard](image/Capture.1.JPG)
+![Facebook Dashboard](image/Capture.JPG)
 
 ### 💡 Key Highlights:
 - **Total Impressions**: **2.48M** | **Total Likes**: **24.5K** | **Total Engagements**: **112.42K**
