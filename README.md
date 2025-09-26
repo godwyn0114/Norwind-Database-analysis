@@ -82,7 +82,7 @@ Insight: Impressions have grown significantly over the years, with 2023 reaching
 
 ## 🔷 LinkedIn Dashboard
 
-![LinkedIn Dashboard](linkedin.png)
+![LinkedIn Dashboard](images/Capture.JPG)
 
 ### 💡 Key Highlights:
 - **Total Engagement**: 0.18K | **Post-Clicks**: 0.13K
